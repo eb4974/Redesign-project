@@ -1,0 +1,4 @@
+// base sass
+@import 'util/mixins';
+
+@include hamburger($color, $color-hover, $width, $height, $weight, $bars);
